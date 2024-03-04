@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/jcsanchez/Desktop/SNHU/Final_Project-C++",
+      "program": "/Users/jcsanchez/Desktop/SNHU/Final_Project-C++/build/Debug/outDebug"
+    }
+  ]
+}

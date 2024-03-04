@@ -34,7 +34,7 @@ The purpose of this project is to fulfill the request made a *local* grocery sto
 
 ## Requirements
 
-<embed src="./resources/Scenario.pdf" width="800px" height="2100px" />
+![Requirements PDF](./resources/Scenario.pdf)
 
 The program that the Corner Grocer is asking you to create should address the following functional requirements:
 

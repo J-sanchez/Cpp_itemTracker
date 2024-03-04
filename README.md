@@ -14,6 +14,7 @@ The Item Tracker program reads data collected in a text file, tracks the frequen
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Documentation](#documentation)
   - [Requirements](#requirements)
   - [Questions?](#questions)
 ---
@@ -32,9 +33,12 @@ The Item Tracker program reads data collected in a text file, tracks the frequen
 
 The purpose of this project is to fulfill the request made a *local* grocery store. The store wants a program that allows them to easily track and report on items purchased throughout the day. 
 
+## Documentation
+[Item Tracker Documentation](/resources/ItemTracker_Project_JCS.docx)
+
 ## Requirements
 
-![Requirements PDF](./resources/Scenario.pdf)
+[Requirements PDF](/resources/Scenario.pdf)
 
 The program that the Corner Grocer is asking you to create should address the following functional requirements:
 

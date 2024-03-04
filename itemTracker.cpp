@@ -1,3 +1,9 @@
+/*
+Name: Jonathan C. Sanchez
+Date: 03/03/2024
+Purpose: The purpose of this project is to fulfill the request made a local grocery store. The store wants a program that allows them to easily track and report on items purchased throughout the day. (7-3 project 3)
+*/
+
 // Import Libraries
 #include <iostream> 
 #include <map> 
